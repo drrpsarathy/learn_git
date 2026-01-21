@@ -1,0 +1,6 @@
+@SSH / Secrets
+github_ssh_*
+*.pem
+*.key
+*.env
+
